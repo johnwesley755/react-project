@@ -4,6 +4,11 @@ Welcome to **Plantify**, an e-commerce web app built with **React** and **Redux 
 
 
 ---
+## 🔗 Live Demo
+
+**Website URL**: [https://react-project-iota-vert.vercel.app/](https://react-project-iota-vert.vercel.app/)
+
+---
 
 ## 📁 GitHub Repository
 
