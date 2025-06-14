@@ -7,7 +7,7 @@ Welcome to **Plantify**, an e-commerce web app built with **React** and **Redux 
 
 ## 📁 GitHub Repository
 
-**GitHub Repo**: [https://github.com/your-username/plantify-store](https://github.com/johnwesley755/react-project)
+**GitHub Repo**: [https://github.com/johnwesley755/react-project](https://github.com/johnwesley755/react-project)
 
 ---
 
